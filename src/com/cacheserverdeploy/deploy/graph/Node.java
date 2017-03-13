@@ -1,6 +1,5 @@
 package com.cacheserverdeploy.deploy.graph;
 
-import com.cacheserverdeploy.deploy.util.Bag;
 
 public class Node {
 	private int id;//点的编号
